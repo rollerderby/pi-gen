@@ -1,0 +1,4 @@
+IMG_NAME=piscore
+
+# Only enable this if you're xrobau.
+#APT_PROXY=http://203.17.11.110:3142
